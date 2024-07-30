@@ -1,0 +1,41 @@
+.text-medium {
+  font-size: 45px;
+}
+
+.text-small {
+  font-size: 35px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.txt-white {
+  color: #fff;
+}
+
+.d-flex {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* .color-img {
+  width: 100%;
+} */
+
+.fi {
+  font-size: 30rem;
+  color: red;
+}
+
+@media screen and (max-width: 1000px) {
+  .d-flex {
+   flex-direction: column;
+  }
+
+  .fi {
+    font-size: 20rem;
+    color: red;
+  }
+}
