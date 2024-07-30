@@ -5,5 +5,5 @@
   React App which generates random colors, these colors are applied by clicking on the buttons
 </p>
 <p>
-  Implemented javaScript Dom manipulation and event listeners to reder colors on respective image 
+  Implemented javaScript Dom manipulation and event listeners to render colors on respective image 
 </p>
